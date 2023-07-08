@@ -1,1 +1,1 @@
-# HTML-CSS-Amazone-clone
+# HTML-CSS-Amazon-clone
